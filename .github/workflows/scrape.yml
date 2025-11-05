@@ -1,4 +1,4 @@
-name: Yahoo News Scraper
+name: Scraper
 
 on:
   schedule:
